@@ -3,4 +3,6 @@ Graph neural networks sparked my interests as they dont operate on the euclidean
 
 The ML4RoadSafety paper piqued my curiosity related to the traffic prediction part so i searched for a small scale dataset and created a small scale version of it so i could learn about GNNs.
 
+here is the link for the peMD7 dataset i found: [https://paperswithcode.com/dataset/pemsd7]
+
 I tried implementing them in both Tensorflow and pytorch but the pytorch had some CPU/GPU data issues that i've yet to fix. 
